@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Roc8_Captcha/static/css/main.c39064cf.css",
+    "main.js": "/Roc8_Captcha/static/js/main.08501ad0.js",
+    "static/media/darkImage3.jpg": "/Roc8_Captcha/static/media/darkImage3.bd3f7338f13041ad7917.jpg",
+    "static/media/light.jpg": "/Roc8_Captcha/static/media/light.8e32b074313794ccca93.jpg",
+    "index.html": "/Roc8_Captcha/index.html",
+    "main.c39064cf.css.map": "/Roc8_Captcha/static/css/main.c39064cf.css.map",
+    "main.08501ad0.js.map": "/Roc8_Captcha/static/js/main.08501ad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c39064cf.css",
+    "static/js/main.08501ad0.js"
+  ]
+}
